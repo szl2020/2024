@@ -5,7 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GzHRXcJFKAEYM0g9f-9O-1" value="申志磊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHRXcJFKAEYM0g9f-9O-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="150" y="145" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHRXcJFKAEYM0g9f-9O-5" value="需要学习的东西&lt;div&gt;html css js vue react webpack node(简单了解) 算法（去不了大厂简单的排序） 项目相关 开发流程相关 问题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHRXcJFKAEYM0g9f-9O-11" value="计划安排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GzHRXcJFKAEYM0g9f-9O-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GzHRXcJFKAEYM0g9f-9O-13" target="GzHRXcJFKAEYM0g9f-9O-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="410" as="sourcePoint" />
+            <mxPoint x="710" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GzHRXcJFKAEYM0g9f-9O-13" value="计划安排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
